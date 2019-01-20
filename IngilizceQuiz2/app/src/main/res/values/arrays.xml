@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="Malzemeler">
+        <item>Balta-Axe</item>
+        <item>cetvel-Level</item>
+        <item>kerpeten-Pliers</item>
+        <item>kürek-Shovel</item>
+        <item>Mala-Trowel</item>
+        <item>Testere-Trowel</item>
+        <item>zımba-stapler</item>
+        <item>somun-Wrenches</item>
+        <item>testere-saw</item>
+        <item>dübel-peg</item>
+        <item>Koli-tape</item>
+        <item>fener-Flashlight</item>
+        <item>Firça-Paint brush</item>
+        <item>kerpeten-Pliers</item>
+        <item>Levye-Pry bar</item>
+        <item>çatal-hammer</item>
+        <item>matkap-Cordless drill</item>
+        <item>band-tape</item>
+        <item>kürek-Shovel</item>
+        <item>kauçuk çekiç-Rubber mallet</item>
+        <item>havya-soldering iron</item>
+    </string-array>
+
+
+
+
+    <string-array name="fiiller">
+        <item>kefaret vermek-expiate</item>
+        <item>alıştırmak-familiarize</item>
+        <item>başlatmak-initiate</item>
+        <item>denetlemek-inspect</item>
+        <item>bütünleştirmek-integrate</item>
+        <item>haklı çıkarmak-justify</item>
+        <item>irkilmek-Bolt</item>
+        <item>dallanmak-Branch</item>
+        <item>gömmek-Bury</item>
+        <item>vızıldamak-Buzz</item>
+        <item>dolanmak-Coil</item>
+        <item>zevk vermek-Delight</item>
+        <item>akmak-Drain</item>
+        <item>Diz çökmek-Kneel</item>
+        <item>sızlanmak-moan</item>
+        <item>karıştırmak-muddle</item>
+        <item>başarmak-accomplish</item>
+        <item>oy toplamak-canvass</item>
+        <item>patlamak-Explode</item>
+        <item>solmak-Fade</item>
+        <item>zorlamak-Force</item>
+        <item>savaşmak-Battle</item>
+        <item>ağartmak-Bleach</item>
+        <item>kaynamak-Boil</item>
+        <item>rendelemek-Grate</item>
+        <item>usandırmak-Harass</item>
+        <item>hapsetmek-Jail</item>
+        <item>katılmak-Join</item>
+        <item>doğrulamak-corroborate</item>
+        <item>sonraya bırakmak-defer</item>
+        <item>göstermek-demonstrate</item>
+        <item>teşhis etmek-diagnose </item>
+        <item>dağıtmak-dispense</item>
+        <item>dikkatle incelemek-dissect</item>
+        <item>haberleşmek-correspond </item>
+        <item>yerinden etmek-disestablish</item>
+        <item> garantiye almak-ensure</item>
+        <item>inandırmak-persuade</item>
+        <item> farkına varmak-recognize</item>
+        <item>tavsiye etmek-recommend</item>
+        <item>barıştırmak-reconcile</item>
+        <item>yeniden kurmak-reconstruct</item>
+
+
+
+
+
+
+    </string-array>
+
+    <string-array name="sebze_meyve">
+
+
+
+        <item>Yabanmersini-Bilberry</item>
+        <item>Mandalina-Tangerine</item>
+        <item>Karpuz-Watermelon</item>
+        <item>Nar-Pomegranate</item>
+        <item>Maydanoz-Parsley</item>
+        <item>Pırasa-Leek</item>
+        <item>Mantar-Mushroom</item>
+        <item>Ispanak-Spinach</item>
+        <item>Taze Fasulye-Green Bean</item>
+        <item>Kereviz-Celery</item>
+        <item>Patlıcan-Aubergine</item>
+        <item>Bamya-Okra</item>
+        <item>Karnabahar-Cauliflower</item>
+        <item>Karalahana-Kale</item>
+        <item>Kavun-Melon</item>
+        <item>Ananas-Pineapple</item>
+        <item>Armut-Pear</item>
+        <item>Patlıcan-Aubergine</item>
+        <item>Salatalık-Cucumber</item>
+        <item>Balkabağı-Butternut Squash</item>
+        <item>Bezelye-Peas</item>
+
+
+    </string-array>
+
+    <string-array name="meslekler">
+        <item>Reklamcı-Advertisar</item>
+        <item>Spiker-Announcer</item>
+        <item>Mimar-Architect</item>
+        <item>Yazar-Author</item>
+        <item>Amiral-Admiral</item>
+        <item>Berber-Barber</item>
+        <item>Balerin-Ballerina</item>
+        <item>Kasiyer-Cashier</item>
+        <item>Dedektif-Detective</item>
+        <item>Mühendis-Engineer</item>
+        <item>İtfaiyeci-Fireman</item>
+        <item>Balıkçı-Fisherman</item>
+        <item>Bakkal-Grocer</item>
+        <item>Hostes-Hostess</item>
+        <item>Okutman-Lecturer</item>
+        <item>Tüccar-Merchant</item>
+        <item>Bakan-Minister</item>
+        <item>Romancı-Novelist</item>
+        <item>Tesisatçı-Plumber</item>
+        <item>Başkan-President</item>
+
+    </string-array>
+    <string-array name="zarflar">
+
+        <item>kalıcı bir şekilde-permanently</item>
+        <item>Olağanüstü-exceptionally</item>
+        <item>yaklaşık -approximately</item>
+        <item>Belirsiz-vaguely</item>
+        <item>yoğun-densely</item>
+        <item>sonuç olarak-consequently</item>
+        <item>gelişigüzel-casually</item>
+        <item>aşırı derecede -exceedingly </item>
+        <item>şüpheyle-doubtfully </item>
+        <item>bariz-blatantly</item>
+        <item>neredeyse-almost</item>
+        <item>şüpheyle-suspiciously</item>
+        <item>devamlı-constantly</item>
+        <item>kısaca-briefly </item>
+        <item>tam olarak-exactly</item>
+        <item>aniden-suddenly </item>
+        <item>yaklaşık-roughly</item>
+        <item>makul-reasonably</item>
+        <item>amaçsız-aimless </item>
+        <item>eskiden-formerly</item>
+        <item>tamamen-utterly</item>
+        <item>belirsizce-vaguely </item>
+        <item>kararsız-variably</item>
+        <item>isteyerek-willingly </item>
+        <item>hayati olarak-vitally</item>
+        <item>savurgan-wastefully</item>
+        <item>yaygın olarak-widely</item>
+        <item>neredeyse-virtually</item>
+        <item>şiddetle-vehemently</item>
+        <item>gayretli-vigorously</item>
+        <item>kabul edilebilir-agreeably</item>
+        <item>hoş bir şekilde-amusingly</item>
+        <item>ustaca-artfully</item>
+        <item>dikkatle-attentively </item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </string-array>
+
+</resources>

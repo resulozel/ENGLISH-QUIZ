@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Quiz">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center">
+
+
+            <TextView
+                android:id="@+id/ilerleme_tv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="1/10"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/colorPrimary"
+                android:textStyle="bold" />
+
+            <RelativeLayout
+                android:id="@+id/rl"
+                android:layout_width="300dp"
+                android:layout_height="170dp"
+                android:layout_marginTop="40dp"
+                android:background="@drawable/soru_arkaplani">
+
+
+                <TextView
+                    android:id="@+id/soru_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:text="9"
+                    android:textSize="64sp" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/buton_container"
+                android:layout_marginTop="30dp"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+                <Button
+                    android:layout_width="220dp"
+                    android:layout_height="wrap_content"
+                    android:text="New Button"
+                    />
+
+                <Button
+                    android:layout_width="220dp"
+                    android:layout_height="wrap_content"
+                    android:text="New Button"
+                    />
+
+                <Button
+                    android:layout_width="220dp"
+                    android:layout_height="wrap_content"
+                    android:text="New Button"
+                    />
+
+                <Button
+                    android:layout_width="220dp"
+                    android:layout_height="wrap_content"
+                    android:text="New Button"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+
+
+
+    </ScrollView>
+</RelativeLayout>

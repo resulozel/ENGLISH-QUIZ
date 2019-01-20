@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#978472</color>
+    <color name="colorPrimaryDark">#3A3732</color>
+    <color name="colorAccent">#856D40</color>
+
+    <color name="yesil">#32cd32</color>
+    <color name="fusya">#FF00FF</color>
+    <color name="kirmizi">#FF0000</color>
+    <color name="koyu_lacivert">#00008B</color>
+    <color name="siyah">#000000</color>
+
+</resources>
