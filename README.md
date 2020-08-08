@@ -2,7 +2,7 @@
 
 ![Screenshot](https://raw.githubusercontent.com/rslozl/English-Quiz-Mobile-App/master/1.png)
 # PAGE
-![Screenshot](https://raw.githubusercontent.com/rslozl/English-Quiz-Mobile-App/master/2.png)
+![Screenshot]()
 # PAGE
 ![Screenshot](https://raw.githubusercontent.com/rslozl/English-Quiz-Mobile-App/master/3.png)
 # PAGE
